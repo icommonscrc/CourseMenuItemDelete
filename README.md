@@ -14,11 +14,11 @@ Local Setup:
 4. Open up the course section in the FULL PAGE VIEW. Scripts do not work with the slider view because the sidebar is iframed in.
     * One way is to open the course in a new tab
 5. Make sure the course has sidebar showing and has content areas to be removed (i.e. Discord Info for CCI)
-7. To delete "Discord Info for CCI", click del_discord script once to focus, then click once more for popup
-8. Click del_content_xpath script
-9. Click final_del_xpath script
-10. To delete "echo360 Class Recordings", click del_echo script once to focus, then click once more for popup
-11. Repeat steps 8-9
+6. To delete "Discord Info for CCI", click del_discord script once to focus, then click once more for popup
+7. Click del_content_xpath script
+8. Click final_del_xpath script
+9. To delete "echo360 Class Recordings", click del_echo script once to focus, then click once more for popup
+10. Repeat steps 7-8
  
 * Different content areas can be deleted by changing the 'menuitem' variable inside of the del_discord/del_echo scripts
 
