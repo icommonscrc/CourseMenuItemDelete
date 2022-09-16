@@ -5,7 +5,7 @@ Author: Jacky Huang
 Description: The purpose of these bookmarklets is to delete specific Bblearn course menu items (i.e. Discord Info for CCI)
 
 Local Setup:
-1. Download the javascript files
+1. Download the javascript files (menupuller.js is OPTIONAL; it is simple script to open/close the sidebar if needed)
 2. Save each as bookmarks in your preferred browser
 3. For each bookmarklet:
     1. Open up the file and copy its script
